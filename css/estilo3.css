@@ -1,0 +1,20 @@
+header{
+	text-align: center;
+	box-sizing:border-box;
+	background-color:#008000;
+	color:#000000;	
+	width:100%;		
+}
+#contenedor{
+	width:60%;
+	background-color:#5421AC;
+	padding:25vw;
+	margin:25vw;
+}
+#fotos{
+	border:2px solid red;
+	background-color: #2121CC;
+	padding: 60vw
+	margin: 60vw;
+	
+}

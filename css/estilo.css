@@ -1,0 +1,43 @@
+.cinema-body{
+	background-color:#EBEBEB;
+}
+#header{
+	height: 10%;
+	background-color: #449D44;
+}
+#container{
+	margin-top:64px;
+}
+
+.jumbotron{
+	background-color:red;
+	height:350px;
+	margin-bottom:0;
+}
+.titulo-cartelera{
+	height: 45px;
+	background-color:#0F0F0F;
+}
+.movies-row{
+	background-color:#5421AC;
+	height: 250px;
+	padding-right:15px;
+	padding-left:15px;
+	
+}
+.movies-column{
+	margin-top:5px;
+	background-color:#C9302C;
+	height:230px;
+	border:1px dashed green
+}
+@media (max-width:700px){
+	.right-column{
+		display:none;
+	}
+}
+.left-column{
+	border-right: 1px;
+	border-right-style: dashed;
+	background-color:#EB9316;
+}
