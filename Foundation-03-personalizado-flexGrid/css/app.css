@@ -1,0 +1,11 @@
+.titulo{
+	border:1px solid red;
+	background-color: #FAF2CC;
+	height: 75%;
+}
+.titulo-menu{
+	border:1px solid red;
+	background-color: #FAF2CC;
+	margin:0;
+}
+
