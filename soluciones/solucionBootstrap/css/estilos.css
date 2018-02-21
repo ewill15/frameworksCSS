@@ -1,6 +1,6 @@
 /* Clase para darle estilos al body */
 .cinema-body {
-  background: #D0D0D0url("../img/aperitivo.jpg") no-repeat fixed center;
+  background: #D0D0D0 url("../img/aperitivo.jpg") no-repeat fixed center;
   height: 100%;
   width: 100%;
 }
