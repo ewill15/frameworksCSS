@@ -1,0 +1,13 @@
+body{
+  /*background: #FFFFFF url("../images/comedor.jpg")no-repeat fixed center;*/
+}
+
+div{
+  border: 1px solid black;
+}
+.comment-user{
+	font-size: 24px;
+}
+#contenido{
+	background-color: #808080;
+}
